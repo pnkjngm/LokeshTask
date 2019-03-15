@@ -24,7 +24,7 @@ class ViewController: UIViewController {
 
     // Data Setup
     lazy var mySections: [SectionData] = {
-        let section1 = SectionData(title: "Section First : Cocoa.Pankaj", data: "Meal", "WorkOut", "Water", "Points", "Bonus")
+        let section1 = SectionData(title: "X_Section First_X : Cocoa.Pankaj", data: "Meal", "WorkOut", "Water", "Points", "Bonus")
         let section2 = SectionData(title: "Section Second : PnkjNgm ", data: "Food", "Exercise", "Health", "Reard", "ETC")
         let section3 = SectionData(title: "Section Third : BP_work", data: "Sleep", "WakeUp", "Bike", "Steam", "Run", "Get Ready")
         
